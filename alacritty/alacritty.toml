@@ -1,0 +1,23 @@
+import = ["/Users/sebass/.config/alacritty/themes/gruvbox_dark.toml"]
+
+[font]
+size = 16
+[font.normal]
+family = "UbuntuMono Nerd Font"
+style = "Regular"
+[font.bold]
+family = "UbuntuMono Nerd Font"
+style = "Bold"
+[font.italic]
+family = "UbuntuMono Nerd Font"
+style = "Italic"
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+option_as_alt = "Both"
+
+[window.padding]
+x = 5
+y = 5

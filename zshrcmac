@@ -1,0 +1,16 @@
+LSDL2="/opt/homebrew/Cellar/sdl2/2.28.5/lib"
+LSDL2_TTF="/opt/homebrew/Cellar/sdl2_ttf/2.20.2/lib"
+LFFTW="/opt/homebrew/Cellar/fftw/3.3.10_1/lib"
+
+export LIBRARY_PATH="$LSDL2:$LSDL2_TTF:$LFFTW"
+
+ISDL2="/opt/homebrew/Cellar/sdl2/2.28.5/include"
+ISDL2_TTF="/opt/homebrew/Cellar/sdl2_ttf/2.20.2/include"
+IFFTW="/opt/homebrew/Cellar/fftw/3.3.10_1/include"
+
+export CPLUS_INCLUDE_PATH="$ISDL2:$ISDL2_TTF:$IFFTW"
+export CPATH="$ISDL2:$ISDL2_TTF:$IFFTW"
+
+ALACRITTY="/Applications/Alacritty.app/Contents/MacOS/alacritty"
+
+export PATH="$PATH:$ALACRITTY"
