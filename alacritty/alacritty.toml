@@ -8,7 +8,7 @@ TERM = "xterm-256color"
 
 [window]
 # for mac
-option_as_alt = "Both"
+#option_as_alt = "Both"
 
 [window.padding]
 x = 5
@@ -34,3 +34,4 @@ size = 18
 #[font.italic]
 #family = "RobotoMono Nerd Font"
 #style = "Italic"
+
