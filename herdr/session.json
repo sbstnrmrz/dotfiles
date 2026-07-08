@@ -1,0 +1,538 @@
+{
+  "version": 3,
+  "workspaces": [
+    {
+      "id": "w1",
+      "custom_name": null,
+      "identity_cwd": "/Users/sebass/cis/crazy-agents",
+      "public_pane_numbers": {
+        "1": 9,
+        "6": 8,
+        "4": 4,
+        "3": 2,
+        "5": 6,
+        "2": 10
+      },
+      "next_public_pane_number": 11,
+      "public_tab_numbers": [
+        9,
+        10,
+        2,
+        4,
+        6,
+        8
+      ],
+      "next_public_tab_number": 11,
+      "tabs": [
+        {
+          "custom_name": "root(1)",
+          "layout": {
+            "Pane": 1
+          },
+          "panes": {
+            "1": {
+              "cwd": "/Users/sebass/cis/crazy-agents"
+            }
+          },
+          "zoomed": false,
+          "focused": 1,
+          "root_pane": 1
+        },
+        {
+          "custom_name": "root-agent",
+          "layout": {
+            "Pane": 2
+          },
+          "panes": {
+            "2": {
+              "cwd": "/Users/sebass/cis/crazy-agents",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "a948fe21-121b-40f9-935f-cc21281011fb"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 2,
+          "root_pane": 2
+        },
+        {
+          "custom_name": "admin(2)",
+          "layout": {
+            "Pane": 3
+          },
+          "panes": {
+            "3": {
+              "cwd": "/Users/sebass/cis/crazy-agents/apps/admin"
+            }
+          },
+          "zoomed": false,
+          "focused": 3,
+          "root_pane": 3
+        },
+        {
+          "custom_name": "front(4)",
+          "layout": {
+            "Pane": 4
+          },
+          "panes": {
+            "4": {
+              "cwd": "/Users/sebass/cis/crazy-agents/apps/front"
+            }
+          },
+          "zoomed": false,
+          "focused": 4,
+          "root_pane": 4
+        },
+        {
+          "custom_name": "back(6)",
+          "layout": {
+            "Pane": 5
+          },
+          "panes": {
+            "5": {
+              "cwd": "/Users/sebass/cis/crazy-agents/apps/back"
+            }
+          },
+          "zoomed": false,
+          "focused": 5,
+          "root_pane": 5
+        },
+        {
+          "custom_name": "engine",
+          "layout": {
+            "Pane": 6
+          },
+          "panes": {
+            "6": {
+              "cwd": "/Users/sebass/cis/crazy-agents/apps/engine"
+            }
+          },
+          "zoomed": false,
+          "focused": 6,
+          "root_pane": 6
+        }
+      ],
+      "active_tab": 1
+    },
+    {
+      "id": "w3",
+      "custom_name": "tucampoaldia",
+      "identity_cwd": "/Users/sebass/dev/tucampoaldia/frontend",
+      "public_pane_numbers": {
+        "9": 2,
+        "7": 1,
+        "8": 3
+      },
+      "next_public_pane_number": 4,
+      "public_tab_numbers": [
+        1,
+        3,
+        2
+      ],
+      "next_public_tab_number": 4,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 7
+          },
+          "panes": {
+            "7": {
+              "cwd": "/Users/sebass/dev/tucampoaldia/frontend"
+            }
+          },
+          "zoomed": false,
+          "focused": 7,
+          "root_pane": 7
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 8
+          },
+          "panes": {
+            "8": {
+              "cwd": "/Users/sebass/dev/tucampoaldia/frontend"
+            }
+          },
+          "zoomed": false,
+          "focused": 8,
+          "root_pane": 8
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 9
+          },
+          "panes": {
+            "9": {
+              "cwd": "/Users/sebass/dev/tucampoaldia/api"
+            }
+          },
+          "zoomed": false,
+          "focused": 9,
+          "root_pane": 9
+        }
+      ],
+      "active_tab": 1
+    },
+    {
+      "id": "w4",
+      "custom_name": null,
+      "identity_cwd": "/Users/sebass/cis/inboxchatbot/refactor",
+      "public_pane_numbers": {
+        "11": 2,
+        "12": 3,
+        "10": 1,
+        "14": 5,
+        "13": 4
+      },
+      "next_public_pane_number": 6,
+      "public_tab_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "next_public_tab_number": 6,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 10
+          },
+          "panes": {
+            "10": {
+              "cwd": "/Users/sebass/cis/inboxchatbot/refactor"
+            }
+          },
+          "zoomed": false,
+          "focused": 10,
+          "root_pane": 10
+        },
+        {
+          "custom_name": "front",
+          "layout": {
+            "Pane": 11
+          },
+          "panes": {
+            "11": {
+              "cwd": "/Users/sebass/cis/inboxchatbot/refactor"
+            }
+          },
+          "zoomed": false,
+          "focused": 11,
+          "root_pane": 11
+        },
+        {
+          "custom_name": "front-agent",
+          "layout": {
+            "Pane": 12
+          },
+          "panes": {
+            "12": {
+              "cwd": "/Users/sebass/cis/inboxchatbot/refactor"
+            }
+          },
+          "zoomed": false,
+          "focused": 12,
+          "root_pane": 12
+        },
+        {
+          "custom_name": "api",
+          "layout": {
+            "Pane": 13
+          },
+          "panes": {
+            "13": {
+              "cwd": "/Users/sebass/cis/inboxchatbot/refactor/api"
+            }
+          },
+          "zoomed": false,
+          "focused": 13,
+          "root_pane": 13
+        },
+        {
+          "custom_name": "api-agent",
+          "layout": {
+            "Pane": 14
+          },
+          "panes": {
+            "14": {
+              "cwd": "/Users/sebass/cis/inboxchatbot/refactor/api",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "fff1ba59-5338-4d5f-9edd-2221c288dda5"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 14,
+          "root_pane": 14
+        }
+      ],
+      "active_tab": 4
+    },
+    {
+      "id": "w5",
+      "custom_name": "sigpv",
+      "identity_cwd": "/Users/sebass/universidad/servicio-comunitario",
+      "public_pane_numbers": {
+        "19": 5,
+        "16": 4,
+        "18": 3,
+        "15": 1,
+        "20": 6,
+        "17": 2
+      },
+      "next_public_pane_number": 7,
+      "public_tab_numbers": [
+        1,
+        4,
+        2,
+        3,
+        5,
+        6
+      ],
+      "next_public_tab_number": 7,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 15
+          },
+          "panes": {
+            "15": {
+              "cwd": "/Users/sebass/universidad/servicio-comunitario"
+            }
+          },
+          "zoomed": false,
+          "focused": 15,
+          "root_pane": 15
+        },
+        {
+          "custom_name": "agent",
+          "layout": {
+            "Pane": 16
+          },
+          "panes": {
+            "16": {
+              "cwd": "/Users/sebass/universidad/servicio-comunitario"
+            }
+          },
+          "zoomed": false,
+          "focused": 16,
+          "root_pane": 16
+        },
+        {
+          "custom_name": "front",
+          "layout": {
+            "Pane": 17
+          },
+          "panes": {
+            "17": {
+              "cwd": "/Users/sebass/universidad/servicio-comunitario/sigpv-front",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "e67c7e79-bc97-42a5-abb4-ff703fd921ce"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 17,
+          "root_pane": 17
+        },
+        {
+          "custom_name": "back",
+          "layout": {
+            "Pane": 18
+          },
+          "panes": {
+            "18": {
+              "cwd": "/Users/sebass/universidad/servicio-comunitario/sigpv-back",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "1a0f2cd8-9772-47ca-ba0a-ba3aa7d9262c"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 18,
+          "root_pane": 18
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 19
+          },
+          "panes": {
+            "19": {
+              "cwd": "/Users/sebass/universidad/servicio-comunitario/sigpv-back"
+            }
+          },
+          "zoomed": false,
+          "focused": 19,
+          "root_pane": 19
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 20
+          },
+          "panes": {
+            "20": {
+              "cwd": "/Users/sebass/universidad/servicio-comunitario/sigpv-front"
+            }
+          },
+          "zoomed": false,
+          "focused": 20,
+          "root_pane": 20
+        }
+      ],
+      "active_tab": 5
+    },
+    {
+      "id": "w6",
+      "custom_name": null,
+      "identity_cwd": "/Users/sebass/universidad/sistemas-de-informacion-2",
+      "public_pane_numbers": {
+        "26": 6,
+        "25": 5,
+        "24": 4,
+        "23": 3,
+        "22": 2,
+        "21": 1
+      },
+      "next_public_pane_number": 7,
+      "public_tab_numbers": [
+        3,
+        6,
+        1,
+        5,
+        2,
+        4
+      ],
+      "next_public_tab_number": 7,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 23
+          },
+          "panes": {
+            "23": {
+              "cwd": "/Users/sebass/universidad/sistemas-de-informacion-2",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "9d78d6d1-5ada-4f6f-94fe-ed2471b3bbf9"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 23,
+          "root_pane": 23
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 26
+          },
+          "panes": {
+            "26": {
+              "cwd": "/Users/sebass/universidad/sistemas-de-informacion-2/registro-edgar-luthier-front"
+            }
+          },
+          "zoomed": false,
+          "focused": 26,
+          "root_pane": 26
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 21
+          },
+          "panes": {
+            "21": {
+              "cwd": "/Users/sebass/universidad/sistemas-de-informacion-2/registro-edgar-luthier-front"
+            }
+          },
+          "zoomed": false,
+          "focused": 21,
+          "root_pane": 21
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 25
+          },
+          "panes": {
+            "25": {
+              "cwd": "/Users/sebass/universidad/sistemas-de-informacion-2",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "3d419a40-da16-4715-b617-9b1288513fed"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 25,
+          "root_pane": 25
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 22
+          },
+          "panes": {
+            "22": {
+              "cwd": "/Users/sebass/universidad/sistemas-de-informacion-2/registro-edgar-luthier-back"
+            }
+          },
+          "zoomed": false,
+          "focused": 22,
+          "root_pane": 22
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 24
+          },
+          "panes": {
+            "24": {
+              "cwd": "/Users/sebass/universidad/sistemas-de-informacion-2",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "12a174f4-2fcf-4635-aaf7-017829473c6e"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 24,
+          "root_pane": 24
+        }
+      ],
+      "active_tab": 1
+    }
+  ],
+  "active": 4,
+  "selected": 4,
+  "sidebar_width": 25,
+  "sidebar_section_split": 0.5,
+  "collapsed_space_keys": []
+}

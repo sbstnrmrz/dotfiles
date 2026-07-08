@@ -1,0 +1,16 @@
+onboarding = false
+[theme]
+name = "gruvbox"
+auto_switch = false
+
+[keys]
+new_tab = ["prefix+c", "alt+t"]
+next_tab = ["prefix+n", "ctrl+l"]
+previous_tab = ["prefix+p", "ctrl+h"]
+switch_tab = ["prefix+1..9", "cmd+1..9"]
+
+[experimental]
+switch_ascii_input_source_in_prefix = true 
+
+[ui]
+agent_panel_sort = "priority"
