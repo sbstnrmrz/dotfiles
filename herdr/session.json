@@ -1,0 +1,596 @@
+{
+  "version": 3,
+  "workspaces": [
+    {
+      "id": "w1",
+      "custom_name": null,
+      "identity_cwd": "/Users/sebass/cis/crazy-agents/apps",
+      "public_pane_numbers": {
+        "5": 17,
+        "6": 18,
+        "2": 28,
+        "7": 29,
+        "1": 27,
+        "3": 31,
+        "4": 30
+      },
+      "next_public_pane_number": 32,
+      "public_tab_numbers": [
+        27,
+        28,
+        31,
+        30,
+        17,
+        18,
+        29
+      ],
+      "next_public_tab_number": 32,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 1
+          },
+          "panes": {
+            "1": {
+              "cwd": "/Users/sebass/cis/crazy-agents/apps",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "b57457bd-5e4d-4880-ad40-25684ccb1f39"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 1,
+          "root_pane": 1
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 2
+          },
+          "panes": {
+            "2": {
+              "cwd": "/Users/sebass/cis/crazy-agents/apps",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "b659f4ee-fa0a-495d-b3e1-bf8914f4fa8a"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 2,
+          "root_pane": 2
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 3
+          },
+          "panes": {
+            "3": {
+              "cwd": "/Users/sebass/cis/crazy-agents/apps",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "762ef25b-9ea3-4bc8-b841-a417148dc0bf"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 3,
+          "root_pane": 3
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 4
+          },
+          "panes": {
+            "4": {
+              "cwd": "/Users/sebass/cis/crazy-agents/apps"
+            }
+          },
+          "zoomed": false,
+          "focused": 4,
+          "root_pane": 4
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 5
+          },
+          "panes": {
+            "5": {
+              "cwd": "/Users/sebass/cis/crazy-agents/apps/front"
+            }
+          },
+          "zoomed": false,
+          "focused": 5,
+          "root_pane": 5
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 6
+          },
+          "panes": {
+            "6": {
+              "cwd": "/Users/sebass/cis/crazy-agents/apps/back"
+            }
+          },
+          "zoomed": false,
+          "focused": 6,
+          "root_pane": 6
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 7
+          },
+          "panes": {
+            "7": {
+              "cwd": "/Users/sebass/cis/crazy-agents/apps"
+            }
+          },
+          "zoomed": false,
+          "focused": 7,
+          "root_pane": 7
+        }
+      ],
+      "active_tab": 2
+    },
+    {
+      "id": "w7",
+      "custom_name": null,
+      "identity_cwd": "/Users/sebass/dev/untitled-music-platform/front",
+      "public_pane_numbers": {
+        "11": 15,
+        "12": 12,
+        "8": 3,
+        "9": 1,
+        "10": 19,
+        "14": 14,
+        "16": 20,
+        "15": 18,
+        "13": 17
+      },
+      "next_public_pane_number": 21,
+      "public_tab_numbers": [
+        3,
+        1,
+        19,
+        15,
+        12,
+        17,
+        14,
+        18,
+        20
+      ],
+      "next_public_tab_number": 21,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 8
+          },
+          "panes": {
+            "8": {
+              "cwd": "/Users/sebass/dev/untitled-music-platform/front"
+            }
+          },
+          "zoomed": false,
+          "focused": 8,
+          "root_pane": 8
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 9
+          },
+          "panes": {
+            "9": {
+              "cwd": "/Users/sebass/dev/untitled-music-platform/front",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "08de9697-932b-4b01-95d4-18122d8ec85c"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 9,
+          "root_pane": 9
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 10
+          },
+          "panes": {
+            "10": {
+              "cwd": "/Users/sebass/dev/untitled-music-platform/front",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "7212989c-8566-4b01-8f1d-fe17362e961f"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 10,
+          "root_pane": 10
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 11
+          },
+          "panes": {
+            "11": {
+              "cwd": "/Users/sebass/dev/untitled-music-platform/front"
+            }
+          },
+          "zoomed": false,
+          "focused": 11,
+          "root_pane": 11
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 12
+          },
+          "panes": {
+            "12": {
+              "cwd": "/Users/sebass/dev/untitled-music-platform/api"
+            }
+          },
+          "zoomed": false,
+          "focused": 12,
+          "root_pane": 12
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 13
+          },
+          "panes": {
+            "13": {
+              "cwd": "/Users/sebass/dev/untitled-music-platform/api"
+            }
+          },
+          "zoomed": false,
+          "focused": 13,
+          "root_pane": 13
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 14
+          },
+          "panes": {
+            "14": {
+              "cwd": "/Users/sebass/dev/untitled-music-platform/api"
+            }
+          },
+          "zoomed": false,
+          "focused": 14,
+          "root_pane": 14
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 15
+          },
+          "panes": {
+            "15": {
+              "cwd": "/Users/sebass/personal/website"
+            }
+          },
+          "zoomed": false,
+          "focused": 15,
+          "root_pane": 15
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 16
+          },
+          "panes": {
+            "16": {
+              "cwd": "/Users/sebass/.config/nvim"
+            }
+          },
+          "zoomed": false,
+          "focused": 16,
+          "root_pane": 16
+        }
+      ],
+      "active_tab": 7
+    },
+    {
+      "id": "w8",
+      "custom_name": null,
+      "identity_cwd": "/Users/sebass/dev/electron-vite-react",
+      "public_pane_numbers": {
+        "18": 3,
+        "19": 2,
+        "17": 1
+      },
+      "next_public_pane_number": 4,
+      "public_tab_numbers": [
+        1,
+        3,
+        2
+      ],
+      "next_public_tab_number": 4,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 17
+          },
+          "panes": {
+            "17": {
+              "cwd": "/Users/sebass/dev/electron-vite-react"
+            }
+          },
+          "zoomed": false,
+          "focused": 17,
+          "root_pane": 17
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 18
+          },
+          "panes": {
+            "18": {
+              "cwd": "/Users/sebass/dev/electron-vite-react"
+            }
+          },
+          "zoomed": false,
+          "focused": 18,
+          "root_pane": 18
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 19
+          },
+          "panes": {
+            "19": {
+              "cwd": "/Users/sebass/dev/electron-vite-react"
+            }
+          },
+          "zoomed": false,
+          "focused": 19,
+          "root_pane": 19
+        }
+      ],
+      "active_tab": 1
+    },
+    {
+      "id": "wA",
+      "custom_name": null,
+      "identity_cwd": "/Users/sebass/dev/rust-n8n-frontend",
+      "public_pane_numbers": {
+        "23": 5,
+        "22": 3,
+        "20": 1,
+        "21": 2
+      },
+      "next_public_pane_number": 7,
+      "public_tab_numbers": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "next_public_tab_number": 7,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 20
+          },
+          "panes": {
+            "20": {
+              "cwd": "/Users/sebass/dev/rust-n8n-frontend"
+            }
+          },
+          "zoomed": false,
+          "focused": 20,
+          "root_pane": 20
+        },
+        {
+          "custom_name": "c",
+          "layout": {
+            "Pane": 21
+          },
+          "panes": {
+            "21": {
+              "cwd": "/Users/sebass/dev/rust-n8n-frontend"
+            }
+          },
+          "zoomed": false,
+          "focused": 21,
+          "root_pane": 21
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 22
+          },
+          "panes": {
+            "22": {
+              "cwd": "/Users/sebass/dev/rust-n8n-frontend"
+            }
+          },
+          "zoomed": false,
+          "focused": 22,
+          "root_pane": 22
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 23
+          },
+          "panes": {
+            "23": {
+              "cwd": "/Users/sebass/.local/src/iced"
+            }
+          },
+          "zoomed": false,
+          "focused": 23,
+          "root_pane": 23
+        }
+      ],
+      "active_tab": 2
+    },
+    {
+      "id": "wB",
+      "custom_name": null,
+      "identity_cwd": "/Users/sebass/dev/untitled-raffle-platform",
+      "public_pane_numbers": {
+        "30": 2,
+        "28": 9,
+        "29": 10,
+        "24": 1,
+        "25": 8,
+        "26": 4,
+        "27": 5
+      },
+      "next_public_pane_number": 11,
+      "public_tab_numbers": [
+        1,
+        8,
+        4,
+        5,
+        9,
+        10,
+        2
+      ],
+      "next_public_tab_number": 11,
+      "tabs": [
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 24
+          },
+          "panes": {
+            "24": {
+              "cwd": "/Users/sebass/dev/untitled-raffle-platform",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "75ae9fca-907a-4b66-81e1-b051cde8d559"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 24,
+          "root_pane": 24
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 25
+          },
+          "panes": {
+            "25": {
+              "cwd": "/Users/sebass/dev/untitled-raffle-platform/admin"
+            }
+          },
+          "zoomed": false,
+          "focused": 25,
+          "root_pane": 25
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 26
+          },
+          "panes": {
+            "26": {
+              "cwd": "/Users/sebass/dev/untitled-raffle-platform/admin"
+            }
+          },
+          "zoomed": false,
+          "focused": 26,
+          "root_pane": 26
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 27
+          },
+          "panes": {
+            "27": {
+              "cwd": "/Users/sebass/dev/untitled-raffle-platform/front"
+            }
+          },
+          "zoomed": false,
+          "focused": 27,
+          "root_pane": 27
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 28
+          },
+          "panes": {
+            "28": {
+              "cwd": "/Users/sebass/dev/untitled-raffle-platform/front"
+            }
+          },
+          "zoomed": false,
+          "focused": 28,
+          "root_pane": 28
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 29
+          },
+          "panes": {
+            "29": {
+              "cwd": "/Users/sebass/dev/untitled-raffle-platform/api"
+            }
+          },
+          "zoomed": false,
+          "focused": 29,
+          "root_pane": 29
+        },
+        {
+          "custom_name": null,
+          "layout": {
+            "Pane": 30
+          },
+          "panes": {
+            "30": {
+              "cwd": "/Users/sebass/dev/untitled-raffle-platform/api"
+            }
+          },
+          "zoomed": false,
+          "focused": 30,
+          "root_pane": 30
+        }
+      ],
+      "active_tab": 0
+    }
+  ],
+  "active": 0,
+  "selected": 0,
+  "sidebar_width": null,
+  "sidebar_section_split": null,
+  "collapsed_space_keys": []
+}
